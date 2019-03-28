@@ -58,3 +58,9 @@ local.properties
 
 # JDT-specific (Eclipse Java Development Tools)     
 .classpath
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
