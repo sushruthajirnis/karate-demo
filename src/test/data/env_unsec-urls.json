@@ -1,0 +1,7 @@
+{
+    "env_unsec": {
+        "isUnsecure": "true",
+        "baseurl_ip": "ip.jsontest.com",
+        "baseurl_headers": "headers.jsontest.com"
+    }
+}

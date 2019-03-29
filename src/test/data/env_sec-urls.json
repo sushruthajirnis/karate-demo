@@ -1,0 +1,7 @@
+{
+    "env_sec": {
+        "isUnsecure": "false",
+        "baseurl_ip": "jsonplaceholder.typicode.com",
+        "baseurl_headers": "jsonplaceholder.typicode.com"
+    }
+}
