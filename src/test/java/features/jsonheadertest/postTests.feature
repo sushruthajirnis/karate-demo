@@ -4,7 +4,7 @@ Background:
 * url baseUrl
 * configure headers = read('classpath:headers.js') ({'accept_type':'json'})
 
-@headerfeature
+@postfeature
 Scenario: Call a simple Get
 Given path '/posts'
 When method get
