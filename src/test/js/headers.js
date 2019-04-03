@@ -1,4 +1,4 @@
-function defaultHeader(args) {
+function (args) {
     //args is any json passed in through feature file 
     //can override the default headers
     karate.log(args)

@@ -1,4 +1,4 @@
-function setup() {
+function() {
   var config = {};
   var env = karate.properties['ENV'];
   var testsuite = karate.properties['SUT'];
@@ -31,6 +31,6 @@ function setup() {
     karate.configure('connectTimeout', 5000)
     karate.configure('readTimeout', 10000)
     karate.log("config" + JSON.stringify(config));
-    return config;
   }
+	return config;
 }
