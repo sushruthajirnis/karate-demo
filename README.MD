@@ -1,4 +1,6 @@
 # karate-demo
+
+Needs Maven,Java
 ## To demo
 
 `mvn test -DENV=env_unsec -DSUT=ip -PipFeature`
